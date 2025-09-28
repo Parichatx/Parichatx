@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sujaritparichat@gmail.com**
 
-- ⚡ Fun fact **I love **dogs 🐶, books 📚, and flowers 🌸**
+- ⚡ Fun fact **I love dogs 🐶, books 📚, and flowers 🌸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
