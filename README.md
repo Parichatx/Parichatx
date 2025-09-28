@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Greetings, Muggle & Wizard alike! , I'm ⚡ Greetings, Muggle & Wizard alike!</h1>
+<h1 align="center">⚡ Greetings, Muggle & Wizard alike! </h1>
 <h3 align="center">A passionate Computer Engineering student from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parichatx&label=Profile%20views&color=0e75b6&style=flat" alt="parichatx" /> </p>
