@@ -33,7 +33,7 @@
 **SoleSculpt: Foot Shape & Plantar Pressure Analysis System 👣**  
 - Uses **image processing** to classify foot types (flat, normal, high-arched)  
 - Analyzes plantar pressure to support **personalized insole design**  
-- Built as a web-based application with **React + Python (TensorFlow/Keras)**  
+- Built as a web-based application with **React + Go**  
 
 ---
 
