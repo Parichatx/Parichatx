@@ -42,7 +42,6 @@
 - Esports Athlete – **University Games of Thailand, 50th Edition (Thammasat University)**  
 - Business Analyst Intern – **Supalai Public Company Limited (2025)**  
 - Event Organizer – **ENGi Fresher’s Day 2025**  
-- Event Staff – **SUT Songkran Festival 2023**  
 
 ---
 
